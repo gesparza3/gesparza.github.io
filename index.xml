@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grant Esparza</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Grant Esparza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Sep 2019 22:35:01 -0700</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to my site!</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>My name is Grant Esparza.
+I have a bachelor&amp;rsquo;s degree in Computer Science with a certificate in Data Science from California State University, Chico. Beyond academia I also am a certified Kubernetes Administrator.
+My passions include learning new tooling to improve software delivery, collaborating with others to develop innovative solutions, and most importantly finding time to enjoy the outdoors with my dog.
+Some of the tools I work with include Docker, Kubernetes, Terraform, and Jenkins.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://example.com/blog/hello-world/</link>
+      <pubDate>Sat, 28 Sep 2019 22:35:01 -0700</pubDate>
+      
+      <guid>https://example.com/blog/hello-world/</guid>
+      <description>Greetings!
+My name is Grant Esparza and I am a DevOps Engineer at Liatrio, a Enterprise Delivery Acceleration firm. I graduated from California State University, Chico with a degree in Computer Science and moved to Sacramento shortly after. I&amp;rsquo;ve always had an obsession with tinkering and love the feeling of mastering new challenges which helps makes me one of the lucky people who finds it easy to love their job.</description>
+    </item>
+    
+  </channel>
+</rss>
